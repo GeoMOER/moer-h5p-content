@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=aduNECzub08
+
+List H5P embed code
+Template from tunapanda
+
+# activate github pages
+use this Template (logged in in Github), public create repository
+setting: main branch-root-save -> access webpage
+
+# Update index.html with repository name
+
+# download h5p file from h5p.com
+change h5p ending to zip and extract to "your-site/h5p-standalone-1.3.x/workspace/your-downloaded-h5p-Content"
+
+# demo folder
+duplicate template.html
+
+# index
+copy new html file Name
+go to index, copy content-example-1.html">Content Example 1 line and change url and link description to actual h5p content
+
+
+# download and embed function
+does not work, therefore the embedcode page is done, copy emded code and replace with the whole url
